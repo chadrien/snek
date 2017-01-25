@@ -1,0 +1,20 @@
+{
+  "name": "snek",
+  "version": "0.1.0",
+  "description": "Snake game in elm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadrien/snek.git"
+  },
+  "author": "Hadrien de Cuzey <hadrien@decuzey.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadrien/snek/issues"
+  },
+  "homepage": "https://github.com/chadrien/snek#readme",
+  "scripts": {},
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-test": "^0.18.2"
+  }
+}
